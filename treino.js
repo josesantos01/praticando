@@ -1,0 +1,1 @@
+let lip = document.getElementsByClassName('lip')
